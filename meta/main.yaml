@@ -1,5 +1,5 @@
 dependencies:
    - name: ansible-role-openshift_htpasswd_oauth
-     src: ssh://https://github.com/atef23/ansible-role-openshift_htpasswd_oauth.git
+     src: https://github.com/atef23/ansible-role-openshift_htpasswd_oauth.git
      scm: git
      version: master
