@@ -3,7 +3,7 @@
 ## Installation
 
 ```
-ansible-galaxy install https://github.com/jkupferer/ansible-role-openshift_htpasswd_oauth/archive/master.tar.gz#/openshift_htpasswd_oauth
+ansible-galaxy install https://github.com/atef23/ansible-role-openshift_htpasswd_oauth/archive/master.tar.gz#/openshift_htpasswd_oauth
 ```
 
 ## Usage
